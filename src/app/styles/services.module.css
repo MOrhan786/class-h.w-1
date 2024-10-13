@@ -1,0 +1,32 @@
+.color{
+background-color: black;
+color: white;
+height: 650px;
+}
+.title{
+ font-size: xx-large;
+ background-color: yellow;
+ color: black;
+ text-align: center;
+
+}
+.p{
+ color: blue;
+ text-align: center;
+ margin-top: 3%;
+ font-size: x-large;
+}
+.li{
+    color: crimson;
+    text-align: center;
+    margin-top: 4%;
+    font-size: large;  
+}
+.ul{
+    text-align: center;
+    color: green;
+    margin-top:8% ;
+
+
+
+}

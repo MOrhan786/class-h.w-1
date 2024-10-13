@@ -1,0 +1,23 @@
+.div{
+  
+    background-color: gray;
+    color: black;  
+    text-align: center;
+    height: 650px;
+ 
+}
+.p{
+  
+  color: white;
+  font-size: x-large;
+  margin-top: 15%;
+   
+}
+.h1{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 40px;
+    font-size: large;
+   
+}
